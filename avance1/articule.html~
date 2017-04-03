@@ -65,12 +65,7 @@
 
     <!-- Page Content -->
     <div class="container">
-            
-                <ol class="breadcrumb">
-                         <li><a href="index.html">Home</a></li>
-                        <li><a href="articule.html">Articule</a></li>
-                
-                  </ol>
+
         <div class="row">
 
             <div class="col-md-3">
@@ -128,37 +123,17 @@
    
 
     </div>
-     <!-- /.container -->
+    <!-- /.container -->
 
     <div class="container">
 
-        
+        <hr>
 
+        <!-- Footer -->
         <footer>
             <div class="row">
-                <div class="col-lg-12 modal-footer">
-                       
-                    <div class="col-md-2"> 
-                        <p >Get to Know</p>  
-                        <ul class="list-group">
-                        <li> <a href="#">Home</a></li>
-                        <li><a href="#"> About</a> </li> 
-                        <li> <a href="#">Contact</a></li>
-
-                    </div> 
-
-                    <div class="col-md-8"> 
-                        <p > Let Us Help You</p>  
-                        <ul class="list-group">
-                        <li> <a href="#">Your account</a></li>
-                        <li><a href="#"> Your orders</a> </li> 
-                        <li> <a href="#">Help</a></li>
-                        
-                    
-                            
-                    </div> 
-
-                    <p class="text-center col-md-12">Copyright &copy; GameCenterCR 2017</p>
+                <div class="col-lg-12">
+                    <p>Copyright &copy; GameCenterCR 2017</p>
                 </div>
             </div>
         </footer>
